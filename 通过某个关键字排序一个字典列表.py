@@ -13,4 +13,5 @@ from operator import itemgetter
 rows_by_fname=sorted(rows,key=itemgetter('fname'))
 rows_by_uid=sorted(rows,key=itemgetter('uid'))
 print(rows_by_fname)
+
 print(rows_by_uid)
