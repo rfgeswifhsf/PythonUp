@@ -3,6 +3,9 @@
 
 endwith
 startwith
+
+搜索str.find()
+删除字符    ： strip() ；lstrip() ； rstrip()
 '''
 
 filename='spam.txt'
