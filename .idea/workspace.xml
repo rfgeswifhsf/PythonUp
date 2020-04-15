@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b054dee-e65a-4966-a4a4-21852f6ad307" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/数字日期与时间/分数运算.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字日期与时间/基本的日期和时间转换.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字日期与时间/精确.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字日期与时间/进制整数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字日期与时间/随机.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/关于迭代/AboutIter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/函数/参数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/文件IO/IOTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/文件IO/text.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/READEME.md" beforeDir="false" afterPath="$PROJECT_DIR$/READEME.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/字符和文本/字符串开头和结尾匹配.py" beforeDir="false" afterPath="$PROJECT_DIR$/字符和文本/字符串开头和结尾匹配.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +27,7 @@
   </component>
   <component name="ProjectId" id="1aQl1hT0cno9ZWcqmszrQNmVN59" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -44,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.基本的日期和时间转换">
+  <component name="RunManager" selected="Python.AboutIter">
     <configuration name="基本的日期和时间转换" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonUp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="精确" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="AboutIter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonUp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,12 +74,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数字日期与时间" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/关于迭代" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数字日期与时间/精确.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/关于迭代/AboutIter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="进制整数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="IOTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonUp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,12 +96,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数字日期与时间" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/文件IO" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数字日期与时间/进制整数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/文件IO/IOTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="分数运算" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="参数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonUp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,12 +118,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数字日期与时间" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/函数" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数字日期与时间/分数运算.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/函数/参数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +156,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.IOTest" />
+        <item itemvalue="Python.AboutIter" />
         <item itemvalue="Python.基本的日期和时间转换" />
-        <item itemvalue="Python.随机" />
-        <item itemvalue="Python.分数运算" />
-        <item itemvalue="Python.进制整数" />
-        <item itemvalue="Python.精确" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +172,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586675484213</updated>
-      <workItem from="1586675490807" duration="9245000" />
+      <workItem from="1586675490807" duration="14507000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1586675551294</created>
@@ -212,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586676863816</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="pythonUp">
+      <created>1586684754613</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586684754613</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,10 +236,13 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
     <MESSAGE value="小小点" />
-    <option name="LAST_COMMIT_MESSAGE" value="小小点" />
+    <MESSAGE value="pythonUp" />
+    <option name="LAST_COMMIT_MESSAGE" value="pythonUp" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonUp$didBug.coverage" NAME="didBug Coverage Results" MODIFIED="1586675762224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonUp$.coverage" NAME="基本的日期和时间转换 Coverage Results" MODIFIED="1586684722707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数字日期与时间" />
+    <SUITE FILE_PATH="coverage/PythonUp$IOTest.coverage" NAME="IOTest Coverage Results" MODIFIED="1586747900222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件IO" />
+    <SUITE FILE_PATH="coverage/PythonUp$AboutIter.coverage" NAME="AboutIter Coverage Results" MODIFIED="1586745811239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/关于迭代" />
+    <SUITE FILE_PATH="coverage/PythonUp$.coverage" NAME="参数 Coverage Results" MODIFIED="1586748830220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数" />
   </component>
 </project>
