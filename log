@@ -1,0 +1,1 @@
+#nohup python kafka_tag_and_filter.py  >>  logs/kafka_tag_and_filter`date "+%Y-%m-%d-%H%M%S"`.log  2>&1  &
