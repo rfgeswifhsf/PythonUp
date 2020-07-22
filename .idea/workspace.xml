@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b054dee-e65a-4966-a4a4-21852f6ad307" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/11盛水最多.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hashmap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sgyy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字日期与时间/date_rand.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/排序/小小冒泡.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/排序/小小快排.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/排序/小小插入.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/新词识别互信息熵.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/邮件和接口.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/链表/lianbiao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonUp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonUp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/新词识别互信息熵.py" beforeDir="false" afterPath="$PROJECT_DIR$/新词识别互信息熵.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -334,7 +320,7 @@
       <workItem from="1593486464911" duration="10639000" />
       <workItem from="1593660043968" duration="2497000" />
       <workItem from="1593743380158" duration="246000" />
-      <workItem from="1595243132976" duration="4377000" />
+      <workItem from="1595243132976" duration="5658000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1586675551294</created>
@@ -392,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593399931746</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="pythonUp">
+      <created>1595302333934</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1595302333934</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

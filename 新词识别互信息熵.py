@@ -317,7 +317,9 @@ if __name__ == '__main__':
     stime = time.time()
 
     res_data = find_word("./sgyy.txt")
-
+    '''
+    词段，词频，凝固度，左信息熵，右信息熵
+    '''
     for each_ele in res_data:
         print(*each_ele, sep="\t")
 
