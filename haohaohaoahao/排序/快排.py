@@ -13,7 +13,6 @@ def quicksort(list,left,right):
     high = right
     pivot = lists[low]
     while left < right:
-        print(left)
         while left<right and lists[right]>= pivot :
             right = right-1
         lists[right] ,lists[left] = pivot,lists[right]

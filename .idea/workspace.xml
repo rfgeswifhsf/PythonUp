@@ -2,14 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b054dee-e65a-4966-a4a4-21852f6ad307" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/haohaohaoahao/二分.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haohaohaoahao/其他/tets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haohaohaoahao/其他/旋转.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haohaohaoahao/动态规划/djjs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haohaohaoahao/动态规划/test_dtgh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haohaohaoahao/动态规划/最大和子串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haohaohaoahao/动态规划/最小路径.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haohaohaoahao/动态规划/最长上升子序列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haohaohaoahao/字符串/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haohaohaoahao/字符串/kmp_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haohaohaoahao/字符串/字符串中第一个唯一字符的位置.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haohaohaoahao/字符串/翻转.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haohaohaoahao/排序/冒泡.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haohaohaoahao/排序/基排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haohaohaoahao/排序/快排.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haohaohaoahao/排序/插排.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haohaohaoahao/排序/选择排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haohaohaoahao/数组系列/Z-变换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haohaohaoahao/数组系列/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haohaohaoahao/数组系列/交集.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haohaohaoahao/数组系列/原地删除.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haohaohaoahao/数组系列/数组旋转.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haohaohaoahao/数组系列/最长公共前缀.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haohaohaoahao/数组系列/股票交易.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/05替换空格.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/110平衡二叉树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/332.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/491.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/58字符串旋转.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/657.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/69平方根.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/n次幂.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/回文串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/计算质数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二分求平方根.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/新词识别互信息熵.py" beforeDir="false" afterPath="$PROJECT_DIR$/新词识别互信息熵.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/剑指29顺时针打印矩阵.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/剑指29顺时针打印矩阵.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构/排序/小小快排.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/排序/小小快排.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PythonUp" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -25,16 +66,17 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tensorflow_test" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GitHub\PythonUp\haohaohaoahao" />
+      <recent name="E:\GitHub\PythonUp\数据结构\排序" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\GitHub\PythonUp" />
       <recent name="E:\GitHub\PythonUp\数字日期与时间" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\GitHub\PythonUp\数据结构\排序" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -49,8 +91,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.新词识别互信息熵">
-    <configuration name="新词识别互信息熵" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.657">
+    <configuration name="快排" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonUp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,12 +100,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/haohaohaoahao/排序" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/新词识别互信息熵.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/haohaohaoahao/排序/快排.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11盛水最多" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="17" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonUp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,12 +122,100 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11盛水最多.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/17.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="332" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonUp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/332.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="491" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonUp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/491.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="657" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonUp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/657.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="插排" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonUp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/haohaohaoahao/排序" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/haohaohaoahao/排序/插排.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,79 +356,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hashmap" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonUp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hashmap.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lianbiao" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonUp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/链表" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/链表/lianbiao.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonUp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.新词识别互信息熵" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.11盛水最多" />
-        <item itemvalue="Python.hashmap" />
-        <item itemvalue="Python.lianbiao" />
+        <item itemvalue="Python.657" />
+        <item itemvalue="Python.332" />
+        <item itemvalue="Python.491" />
+        <item itemvalue="Python.17" />
+        <item itemvalue="Python.快排" />
       </list>
     </recent_temporary>
   </component>
@@ -321,6 +385,10 @@
       <workItem from="1593660043968" duration="2497000" />
       <workItem from="1593743380158" duration="246000" />
       <workItem from="1595243132976" duration="5658000" />
+      <workItem from="1595401024694" duration="966000" />
+      <workItem from="1595922538353" duration="1683000" />
+      <workItem from="1597648598966" duration="69648000" />
+      <workItem from="1598526435600" duration="2920000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1586675551294</created>
@@ -385,7 +453,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595302333934</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="pythonUp">
+      <created>1595401114086</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1595401114086</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -411,14 +486,28 @@
     <option name="LAST_COMMIT_MESSAGE" value="pythonUp" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonUp$hashmap.coverage" NAME="hashmap Coverage Results" MODIFIED="1595243448576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonUp$test.coverage" NAME="test Coverage Results" MODIFIED="1595302069446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonUp$djjs.coverage" NAME="djjs Coverage Results" MODIFIED="1598325736591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/haohaohaoahao/动态规划" />
+    <SUITE FILE_PATH="coverage/PythonUp$17.coverage" NAME="17 Coverage Results" MODIFIED="1598411314783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/PythonUp$58.coverage" NAME="58字符串旋转 Coverage Results" MODIFIED="1597649810692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/PythonUp$didBug.coverage" NAME="didBug Coverage Results" MODIFIED="1586675762224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonUp$491.coverage" NAME="491 Coverage Results" MODIFIED="1598421403734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/PythonUp$IOTest.coverage" NAME="IOTest Coverage Results" MODIFIED="1586747900222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件IO" />
     <SUITE FILE_PATH="coverage/PythonUp$lianbiao.coverage" NAME="lianbiao Coverage Results" MODIFIED="1593660732433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/链表" />
+    <SUITE FILE_PATH="coverage/PythonUp$29.coverage" NAME="剑指29顺时针打印矩阵 Coverage Results" MODIFIED="1597649469688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/PythonUp$Z_.coverage" NAME="Z-变换 Coverage Results" MODIFIED="1598256035629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/haohaohaoahao/数组系列" />
+    <SUITE FILE_PATH="coverage/PythonUp$.coverage" NAME="快排 Coverage Results" MODIFIED="1598409097458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/haohaohaoahao/排序" />
+    <SUITE FILE_PATH="coverage/PythonUp$hashmap.coverage" NAME="hashmap Coverage Results" MODIFIED="1595243448576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonUp$test.coverage" NAME="test Coverage Results" MODIFIED="1598248174233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/haohaohaoahao/数组系列" />
+    <SUITE FILE_PATH="coverage/PythonUp$tets.coverage" NAME="tets Coverage Results" MODIFIED="1598345632368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/haohaohaoahao/其他" />
+    <SUITE FILE_PATH="coverage/PythonUp$pytest_in_test_dtgh_py.coverage" NAME="pytest in test_dtgh.py Coverage Results" MODIFIED="1598345585638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/haohaohaoahao/动态规划" />
+    <SUITE FILE_PATH="coverage/PythonUp$69.coverage" NAME="69平方根 Coverage Results" MODIFIED="1598248846432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/PythonUp$332.coverage" NAME="332 Coverage Results" MODIFIED="1598521532629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/PythonUp$657.coverage" NAME="657 Coverage Results" MODIFIED="1598581320958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/PythonUp$AboutIter.coverage" NAME="AboutIter Coverage Results" MODIFIED="1586745811239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/关于迭代" />
     <SUITE FILE_PATH="coverage/PythonUp$11.coverage" NAME="11盛水最多 Coverage Results" MODIFIED="1595245878881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonUp$.coverage" NAME="新词识别互信息熵 Coverage Results" MODIFIED="1595302088537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonUp$1.coverage" NAME="1 Coverage Results" MODIFIED="1593501247788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
+    <SUITE FILE_PATH="coverage/PythonUp$n.coverage" NAME="n次幂 Coverage Results" MODIFIED="1597996178697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/PythonUp$05.coverage" NAME="05替换空格 Coverage Results" MODIFIED="1598249068686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/PythonUp$1.coverage" NAME="1 Coverage Results" MODIFIED="1598339131626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/haohaohaoahao/字符串" />
+    <SUITE FILE_PATH="coverage/PythonUp$110.coverage" NAME="110平衡二叉树 Coverage Results" MODIFIED="1597648991769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
   </component>
 </project>
