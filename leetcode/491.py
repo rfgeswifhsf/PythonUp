@@ -23,4 +23,4 @@ for i in nums[1:]:
     pres.add((i, ))
 print([list(i) for i in pres if len(i) > 1])
 
-
+print(pres)
